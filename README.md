@@ -1,2 +1,2 @@
-# node-ts-template
-Template project for NodeJS with typescript enabled
+# ORNA Kingdom BOT
+BOT handling kingdom duties on ORNA
